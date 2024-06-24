@@ -719,6 +719,10 @@ video {
   left: 1rem;
 }
 
+.bottom-0 {
+  bottom: 0px;
+}
+
 .isolate {
   isolation: isolate;
 }
@@ -2450,6 +2454,11 @@ video {
 .text-4-Medium-brown {
   --tw-text-opacity: 1;
   color: hsl(28 10% 53% / var(--tw-text-opacity));
+}
+
+.text-1-Soft-red {
+  --tw-text-opacity: 1;
+  color: hsl(10 79% 65% / var(--tw-text-opacity));
 }
 
 .underline {
