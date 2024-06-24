@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+main {
+  height: 100vh;
+}
+
+.main-container {
+  width: 98vw;
+}
